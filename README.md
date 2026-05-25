@@ -2,7 +2,7 @@
 
 The code of our **KDD2026** paper [Compress the Easy, Explore the Hard: Difficulty-Aware Entropy Regularization for Efficient LLM Reasoning](https://arxiv.org/abs/2602.22642)。
 
-The trained models of [7B-ME](https://huggingface.co/Qwenzzzz/CEEH_7B_ME) and [1.5B-EA](https://huggingface.co/Qwenzzzz/CEEH_1.5B_EA) and [1.5B] are accessible.
+The trained models of [7B-ME](https://huggingface.co/Qwenzzzz/CEEH_7B_ME) and [1.5B-EA](https://huggingface.co/Qwenzzzz/CEEH_1.5B_EA) are accessible.
 
 ## Requirements
 
